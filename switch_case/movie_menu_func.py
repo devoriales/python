@@ -1,6 +1,6 @@
 # devoriales.com, 2022
 # Movie Menu
-# Path: switch.py
+# Path: switch_case/movie_menu_func.py
 # switch cases
 
 # # movie menu with if else statements

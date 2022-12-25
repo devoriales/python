@@ -1,6 +1,6 @@
 # devoriales.com, 2022
 # Movie Streming Service
-# Path: switch_class.py
+# Path: switch_case/switch_class.py
 # Description: Switch statement in Python using class method
 
 class Movie():
