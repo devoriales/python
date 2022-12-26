@@ -1,0 +1,6 @@
+
+ 
+     yyyy/mm/dd hh:mm:ss.sss           pid      tid      message-id   message(LANG=en)
+0046 2003/12/06 19:51:32.250  my_app1  00EB7859 012A54F9 AP1_10000-I  application1 start.
+0048 2003/12/06 19:51:32.265  my_app1  00EB7859 012A54F9 AP1_10100-E  Catch an exception!
+0049 2003/12/06 19:51:32.265  my_app1  00EB7859 012A54F9 AP1_10001-I  application1 end.

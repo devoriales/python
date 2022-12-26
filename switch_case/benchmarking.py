@@ -1,7 +1,6 @@
 # devoriales.com, 2022
-# Path: switch_case/switch_case_bench.py
+# Path: switch_case/benchmarking.py
 # description: benchmarking switch case vs if else in python
-# tags: python, switch case, if else, benchmarking
 
 import time
 
