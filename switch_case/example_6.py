@@ -4,14 +4,14 @@
 
 
 # with AND condition
-# def sportcars(*car):
-#     print(car)
-#     # switch case 
-#     match car:
-#         case 'Ferrari', 'Lamborghini': # multiple cases with AND condition
-#             return 'Sportscars'
-#         case _:
-#             return 'Not sportscars'
+def sportcars(*car):
+    print(car)
+    # switch case 
+    match car:
+        case 'Ferrari', 'Lamborghini': # multiple cases with AND condition
+            return 'Sportscars'
+        case _:
+            return 'Not sportscars'
 
 # if else
 def sportcars(*car):

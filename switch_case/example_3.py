@@ -1,7 +1,7 @@
 # devoriales.com, 2022
-# Movie Streming Service
-# Path: switch_case/switch_class.py
-# Description: Switch statement in Python using class method
+# Movie Streming Service using Structural Pattern Matching
+# Path: switch_case/example_3.py
+# Description: Movie Menu using Structural Pattern Matching and Classes
 
 class Movie():
 

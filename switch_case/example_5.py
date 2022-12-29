@@ -1,10 +1,9 @@
 # devoriales.com, 2022
-# Path: switch_case/switch_case_with_OR_condition.py
+# Path: switch_case/example_5.py
 # description: benchmarking switch case vs if else in python
-# tags: python, switch case with OR condition
 
 
-# with OR condition
+# match statement
 def sportcars(car):
     print(car)
     # switch case 

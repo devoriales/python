@@ -1,6 +1,6 @@
 # devoriales.com, 2022
-# Path switch_case/check_http_status.py
-# check http status codes
+# Path : switch_case/example_4.py
+# check http status codes using match statement
 
 
 # switch case
