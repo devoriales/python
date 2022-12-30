@@ -1,5 +1,5 @@
 # devoriales.com, 2022
-# Path: switch_case/example_5.py
+# Path: pattern_matching/example_5.py
 # description: benchmarking switch case vs if else in python
 
 

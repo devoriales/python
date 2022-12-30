@@ -1,5 +1,5 @@
 # devoriales.com, 2022
-# Path : switch_case/example_4.py
+# Path : pattern_matching/example_4.py
 # check http status codes using match statement
 
 

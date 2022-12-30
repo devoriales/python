@@ -1,6 +1,6 @@
 # devoriales.com, 2022
 # Movie Menu
-# Path: switch_case/example_2.py
+# Path: pattern_matching/example_2.py
 # Description: Movie Menu using Structural Pattern Matching
 
 # # movie menu with if else statements

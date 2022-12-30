@@ -1,6 +1,6 @@
 
 # Devoriales.com, 2022
-# Path: switch_case/example_1.py
+# Path: pattern_matching/example_1.py
 # Description: Checking if a name is common using Structural Pattern Matching
 
 # # checks if a name is common or not. Uses if else statements

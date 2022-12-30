@@ -1,5 +1,5 @@
 # devoriales.com, 2022
-# Path: switch_case/example_6.py
+# Path: pattern_matching/example_6.py
 # description: multiple cases with AND condition
 
 
@@ -21,7 +21,7 @@ def sportcars(*car):
         return 'Not a sportscar'
 
     
-
-print(sportcars('Ferrari', 'Lamborghini'))  # multiple cases with AND condition will return Sportscars
-print(sportcars('Fiat', 'Lamborghini'))  # multiple cases with AND condition will return Not a sportscar
-
+print(sportcars('Ferrari', 'Lamborghini'))  # Returns "Sportscars"
+print(sportcars('Fiat', 'Lamborghini'))  # Returns "Not sportscars"
+print(sportcars('Ferrari', 'Fiat'))  # Returns "Not sportscars"
+print(sportcars('Ferrari', 'Lamborghini', 'Porsche')) # Returns "Not sportscars"

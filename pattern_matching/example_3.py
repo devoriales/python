@@ -1,6 +1,6 @@
 # devoriales.com, 2022
-# Movie Streming Service using Structural Pattern Matching
-# Path: switch_case/example_3.py
+# Movie Streaming Service using Structural Pattern Matching
+# Path: pattern_matching/example_3.py
 # Description: Movie Menu using Structural Pattern Matching and Classes
 
 class Movie():

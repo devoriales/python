@@ -1,5 +1,5 @@
 # devoriales.com, 2022
-# Path: switch_case/benchmarking.py
+# Path: pattern_matching/benchmarking.py
 # description: benchmarking switch case vs if else in python
 
 import time
