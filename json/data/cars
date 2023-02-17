@@ -1,0 +1,161 @@
+{
+  "cars": [
+    {
+      "manufacturer": "Audi",
+      "model": "R8",
+      "year": 2022,
+      "topSpeed": 205,
+      "engine": {
+        "type": "V10",
+        "displacement": 5.2,
+        "horsepower": 602,
+        "torque": 413
+      },
+      "transmission": {
+        "type": "automatic",
+        "speeds": 7,
+        "manufacturer": "ZF",
+        "model": "8HP"
+      },
+      "drive": "all-wheel",
+      "fuelType": "gasoline",
+      "fuelEconomy": {
+        "city": 13,
+        "highway": 20,
+        "combined": 16
+      },
+      "colors": [
+        {
+          "name": "Mythos Black Metallic",
+          "code": "#212121"
+        },
+        {
+          "name": "Tango Red Metallic",
+          "code": "#a01916"
+        },
+        {
+          "name": "Daytona Gray Pearl Effect",
+          "code": "#6c757d"
+        }
+      ],
+      "features": [
+        "Bang & Olufsen sound system",
+        "Virtual cockpit",
+        "Full LED headlights",
+        "Carbon-ceramic brakes",
+        "Sport exhaust system"
+      ],
+      "options": {
+        "interior": [
+          {
+            "name": "Black",
+            "price": 0
+          },
+          {
+            "name": "Express Red",
+            "price": 750
+          }
+        ],
+        "wheels": [
+          {
+            "name": "19\" 5-arm-spoke design",
+            "price": 0
+          },
+          {
+            "name": "20\" 10-spoke-Y design",
+            "price": 1500
+          }
+        ]
+      },
+      "price": {
+        "base": 142700,
+        "options": 2250,
+        "delivery": 1250,
+        "total": 146200
+      }
+    },
+    {
+      "manufacturer": "Porsche",
+      "model": "911 Carrera S",
+      "year": 2022,
+      "topSpeed": 192,
+      "engine": {
+        "type": "flat-six",
+        "displacement": 3.0,
+        "horsepower": 443,
+        "torque": 390
+      },
+      "transmission": {
+        "type": "automatic",
+        "speeds": 8,
+        "manufacturer": "PDK"
+      },
+      "drive": "rear-wheel",
+      "fuelType": "gasoline",
+      "fuelEconomy": {
+        "city": 18,
+        "highway": 24,
+        "combined": 20
+      },
+      "colors": [
+        {
+          "name": "Jet Black Metallic",
+          "code": "#0c0c0d"
+        },
+        {
+          "name": "Crayon",
+          "code": "#c3c1c1"
+        },
+        {
+          "name": "Carmine Red",
+          "code": "#8c0404"
+        }
+      ],
+      "features": [
+        "Sport Chrono package",
+        "Porsche Active Suspension Management (PASM)",
+        "LED headlights with Porsche Dynamic Light System Plus (PDLS+)",
+        "Bose surround sound system",
+        "Sport exhaust system"
+      ],
+      "options": {
+        "interior": [
+          {
+            "name": "Black",
+            "price": 0
+          },
+          {
+            "name": "Slate Grey",
+            "price": 4300
+          }
+        ],
+        "wheels": [
+          {
+            "name": "20\"/21\" Carrera S",
+            "price": 0
+          },
+          {
+            "name": "20\"/21\" RS Spyder Design",
+            "price": 3270
+          }
+        ],
+        "performance": [
+          {
+            "name": "Porsche Ceramic Composite Brakes (PCCB)",
+            "price": 8400
+          },
+          {
+            "name": "Front-axle lift system",
+            "price": 2600
+          }
+        ]
+      },
+      "price": {
+        "base": 121000,
+        "options": 20220,
+        "delivery": 1350,
+        "total": 143570
+      }
+    }
+  ]
+}
